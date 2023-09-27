@@ -12,6 +12,7 @@ A collection of useful configuration profiles for mac management
  | DisableSiri | com.apple.assistant.support | 「"Siri に頼む"を有効にする」の無効化 <br/> Disable Siri |
  | DisableSiriMenuBar | com.apple.Siri | 「メニューバーに Siri を表示」の無効化 <br/> lock Siri’s menubar icon |
  | DisableiTunesFileSharing | com.apple.applicationaccess | mac にiPhone ( iPad ) 接続時、Finder に「ファイル」タブを表示させない <br/> Don't show File tab in Finder when iPhone (iPad) is connected to mac |
+ | MajorUpgradePostponement | com.apple.applicationaccess | macOSメジャーアップグレードの延期 <br/> delays user visibility of major upgrades to OS Software. Available in macOS 11.3 and later. |
 
 ## 使い方(Usage)
 
